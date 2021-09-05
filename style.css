@@ -143,3 +143,19 @@ footer p {
   padding: 0;
   margin-left: -10%;
 }
+
+@media (max-width: 1000px) {
+  .input-box {
+    width: 150%;
+    margin: 5% 10%;
+  }
+
+  .footer-links {
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+
+  .unique {
+    margin: 0;
+  }
+}
