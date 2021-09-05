@@ -3,4 +3,4 @@
 ---
 ![Foogle logo](https://github.com/Manuel254/foogle-homepage/blob/main/images/screenshot.png)
 ---
-[Live Preview]()
+[Live Preview](https://foogle-manuel.netlify.app/)
